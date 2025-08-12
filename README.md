@@ -1,9 +1,9 @@
 ## Deploy To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/nihubora264/appx-auto-4)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/yassuhacks750/Thakurji)
 
 ## Code Write By @ItsMeMaster
-
+https://github.com/yassuhacks750/Thakurji
 # AppxAutoUploader Telegram Bot
 
 A powerful Telegram bot designed to automatically manage and update class materials from ClassX platform. The bot handles automatic daily updates, file management, and forum organization for educational content.
@@ -165,3 +165,4 @@ For support, please join our [ᎷΔŞŦᏋᏒ](https://t.me/ItsMeMaster)
 
 ---
 Made with ❤️ by [ᎷΔŞŦᏋᏒ] 
+
